@@ -6,3 +6,4 @@ Hallo iedereen groetjes Lisanne
 Welkom in Github, groetjes Hilde
 
 Ik heb dit op mn laptop aangepast
+Hoi ik heb het gelezen in vscode
