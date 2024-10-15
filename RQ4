@@ -1,5 +1,22 @@
 Q4. What is the development of fully electric sales and plug-in hybrid sales of electric cars and electric trucks per inhabitant?
 
+Algemeen:
+In the previous questions, the countries that are leading in fully electric sales and plug-in hybrid sales of electric cars and electric trucks are given. In subquestion 4 we explore this development of
+sales per country and per inhabitant. This data will then show not only the growht per country in absolute sales, but also the development of these sales per inhabitant. The data is shown in a bar graph with
+a slider that shows the data per year. This way, the development of the electric car sales per inhabitant is shown through the years. The bar plot is, just like in the questions above, shown in descending order.
+The country that has the highest electric car or truck sales is shown on the top and the corresponding value is given as well. The value that is shown is small, as this is the value of the car or truck sales
+per inhabitant.
+
+Car graph:
+For example for the year 2023, Iceland scores as the top country for electric car sales, whereas in the absolute sales Iceland is in the bottom half. Iceland has a relative small population of only 387,559
+inhabitants, so compared to a country like China it is obvious they do not have the same absolute electric vehicle car sales. This graph shows the sales as a value per inhabitant and therefore it is a more 
+accurate representation of the development of electric car sales for the size of the country.
+
+Truck graph:
+The same is done for the sales of electric trucks. In this case for 2023 Norway is the top country per inhabitant, in comparison to China, which was the top country for absolute truck sales. The values shown
+for the trucks are very small. The value for the top country Norway in 2023 is only 130μ; this shows the number of sold electric trucks is very small compared to the size of the countries.
+
+
 - data van inwoners per land vinden
 - specifiek jaar (of 2 jaren) kiezen voor de inwoners per land
 - originele data aanpassen door alles te delen door het aantal inwoners per land
