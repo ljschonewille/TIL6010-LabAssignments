@@ -1,0 +1,12 @@
+Data used
+
+For this project we have used several data bases to create our dataframes.
+
+*Creating the dataframe showing the electric car sales values for all countries from 2010 to 2023*
+IEA50 Global EV Data Explorer - https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
+
+*Creating the dataframe showing the electric truck sales values for all countries from 2010 to 2023*
+IEA50 Global EV Data Explorer - https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
+
+*Creating the dataframe showing all inhabitants per country*
+Our World in Data: Population Growth - https://ourworldindata.org/population-growth
