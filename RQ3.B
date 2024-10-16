@@ -1,5 +1,6 @@
-Q5. How have the trends for electric cars sales and electric trucks sales developed for the top four leading countries per inhabitant?
-
+Q3: Which four countries are leading in electric car and truck sales per inhabitant, and how have these sales developed?
+Q3.B: How have these sales developed (for those 4 top leading countries)
+DEMOGRAPIC
 Cars:
 When looking solely at the values for car sales for the top four leading countries in 2023, it can be concluded that since 2010, the sale of electric cars per inhabitant has increased for all the countries in the current top four.
 Notably, since 2019, a steep increase has been observed for all four countries.
