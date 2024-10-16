@@ -1,6 +1,6 @@
 Data pipeline
 
-In this section a description is given on how the data that is used is deriven from an online dataset. For this, all three sets that are described in section 'Data Used' are given. The pipeline for each dataset
+In this section a description is given on how the data that is used is derived from an online dataset. For this, all three sets that are described in section 'Data Used' are given. The pipeline for each dataset
 is given through first describing the source of the data. Then we will describe how it is processed in the python file to create a dataframe that can be used to generate the data for each sub question. Lastly, a
 short description on how the data can be interpreted for each sub questions is given.
 
@@ -20,7 +20,7 @@ To be able to change the csv-file to an usable dataframe, we have to perform sev
 - create a 0-value for every country that has no existing data for any years between 2010 and 2023
 
 *Data interpretation*
-Using the created dataframe, all sub questions can be answered ...
+Using the created dataframe, all sub questions about electric car sales can be answered by altering the existing dataframe for that specific sub question.
 
 
 **Data pipeline 2**
@@ -39,8 +39,7 @@ To be able to change the csv-file to an usable dataframe, we have to perform sev
 - create a 0-value for every country that has no existing data for any years between 2010 and 2023
 
 *Data interpretation*
-Using the created dataframe, all sub questions can be answered ...
-
+Using the created dataframe, all sub questions about electric truck sales can be answered by altering the existing dataframe for that specific sub question.
 
 **Data pipeline 3**
 *Source description*
@@ -54,4 +53,4 @@ To be able to change the csv-file to an usable dataframe, we have to perform sev
 - replace 'United states' by 'USA', 'Czechia' by 'Czech Republic', 'South Korea' by 'Korea' and 'Turkey' by 'Turkiye' to match the other dataframe
 
 *Data interpretation*
-Using the created dataframe, all sub questions can be answered ...
+Using the created dataframe, all sub questions about electric car and truck sales per inhabitant can be answered by altering the existing dataframe for that specific sub question.
