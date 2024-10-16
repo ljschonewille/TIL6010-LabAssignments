@@ -1,5 +1,13 @@
 Q2. Which country is leading in the electric cars sales and which country in electric truck sales?
 
-- top 4 landen
-- 2 barplot grafiekjes (1 van persons, 1 van vracht) van de hele wereld
+This sub-research question is used to evaluate how sales of electric cars and trucks (both fully battery electric and plug-in hybrid) have progressed between 2010 and 2023 by country. To answer this sub-research question, three different bar graphs for both electric cars and electric trucks are established. By means of a slider the progression of sales per year is shown. 
+For electric cars more data is available than for electric trucks, which explains the difference in detail and extensiveness between the evaluation of these two. For some countries there is no data available from 2010 onwards, for these countries the number of EVs sold remains at zero until data is available.  
+The first graph shows the annual sales of electric cars by country. All countries for which data is available are shown in a bar graph, where the y-axis represents the countries and the x-axis represents the number of electric cars sold per year. The chart includes a slider to display sales figures by year.
+In general, electric car sales increase annually, although there are years when this is not the case. An example is the Netherlands, where 23,000 electric cars were sold in 2013 and the number dropped to 15,000 in 2014. Although the top four countries with the highest sales vary each year, overall the United States, China, Japan, Norway, Germany, France, the United Kingdom and the Netherlands perform consistently well.
+A similar bar graph was prepared for electric truck sales. Significantly less data is available for this sector, which limits the representativeness of the graph.
+For the second graph, the dataset was expanded to include a column that calculates each country's share of annual sales. This takes the total sales per year as 100%. Then the number of cars sold per country is divided by total sales for that year and multiplied by 100 to calculate the percentage. The graph, similar to the first graph, is a bar graph with a slider, but now shows the sales percentages by country. 
+The final graph shows the cumulative sales of electric cars by country through 2023. Whereas the earlier graphs provided insight into annual sales, this graph provides an overview of total sales by country over the period 2010-2023. To calculate this cumulative data, an additional column has been added to the dataset in which yearly sales are added to previous years' sales.
+The graph is again a bar graph with a slider, showing the number of cars sold each year, including previous years' sales. The data shows that the top four countries with the most electric cars sold between 2010 and 2023 are: China (22,000,000), the United States (4,700,000), Germany (2,900,000) and the United Kingdom (1,600,000). 
+A similar graph was made for electric trucks. This shows that the top four countries are: China (300,000), Germany (6,100), France (3,800) and Canada (2,900).
+To answer the sub-research question: China is the country leading in both electric car and truck sales.
 
