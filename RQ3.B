@@ -1,4 +1,4 @@
-Q3: Which four countries are leading in electric car and truck sales per inhabitant, and how have these sales developed?
+SQ3: Which four countries are leading in electric car and truck sales per inhabitant, and how have these sales developed? (normalized to demographics)
 Q3.B: How have these sales developed (for those 4 top leading countries)
 DEMOGRAPIC
 Cars:
