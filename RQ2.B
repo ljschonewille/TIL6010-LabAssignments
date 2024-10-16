@@ -1,5 +1,5 @@
-Q3. How have the trends for electric cars sales and electric trucks sales developed for the current top four leading countries?
-
+Q2: Which four countries are leading in electric car and truck sales and how have the sales developed?
+Q2.B How has the sales developed (for those 4 top leading countries)
 The plot illustrates a significant increase in car sales in the top four leading countries over the past decade.
 This trend is particularly pronounced in China, where EV sales have surged dramatically since 2020.
 It’s noteworthy that in all four countries, the rise in EV sales began around 2020.
