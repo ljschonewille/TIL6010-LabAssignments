@@ -1,0 +1,22 @@
+In this file, a description of the content of this Github is given.
+
+Report:
+- TIL6022 Project - Group 13.ipynb
+
+Python files with code per sub question:
+- SQ1-code.ipynb
+- SQ2a-code.ipynb
+- SQ2b-code.ipynb
+- SQ3a-code.ipynb
+- SQ3b-code.ipynb
+- SQ4a-code.ipynb
+- SQ4b-code.ipynb
+- SQ5a-code.ipynb
+- SQ5b-code.ipynb
+
+Data sets used in python:
+- IEA-EV-dataEV salesHistoricalCars.csv
+- IEA-EV-dataEV salesHistoricalTrucks.csv
+- human-development-index.csv
+- national-gdp-constant-usd-wb.csv
+- population-and-demography.csv
