@@ -4,4 +4,8 @@ In recent years, there has been significant attention to climate change and the 
 This growing awareness has led to a pressing need to reduce greenhouse gas emissions, which can be achieved through the adoption of electric vehicles.
 As a result, an increasing presence of electric cars and trucks can be observed on the roads.
 To investigate this trend, this research examines how the sales of electric cars and trucks have developed between 2010 and 2023.
-By analyzing sales data over this period, insights can be gained into consumer preferences, market dynamics, and the increasing impact of electric vehicles in the world.
+By analyzing sales data over this period, insights can be gained into the increasing impact of electric vehicles in the world.
+To take into account the differences in size of each country, which can give an incorrect overview of the impact each country has in this topic, the data for electric cars and trucks is normalised according
+to three different factors. All three indicate a different factor of a country's data. The first factor shows the demographic differences, based on the population of each country. The second normalisation is
+based on an economic factor, the Gross Domestic Product (GDP). The last normalisation is done based on a factor that indicates a country's welfare, the Human Development Index (HDI).
+Using the data sets for electric cars and trucks and the normalisation data sets in python, the research question and its sub questions can be answered.
