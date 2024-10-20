@@ -1,3 +1,42 @@
 SQ4: Which four countries are leading in electric car and truck sales per Gross Domestic Product (GDP), and how have these sales developed? (normalized to economics)
 Q4.A: Which four counties are leading in electric car and truck sales relative to GDP?
+
 ECONOMIC
+Algemeen:
+To factor in the economic differences of each country, the electric car and truck sales per country are also normalised using an economic factor, the Gross Domestic Product (GDP). The GDP is a measure that is
+often used to define the size of an economy of a country. According to the International Monetary Fund the "GDP measures the monetary value of final goods and services—that is, those that are bought by the final
+user—produced in a country in a given period of time" (Gross Domestic Product: An Economy’s All, 2019)*. Just like the data for the demographic factor in sub question 3, the data for the GDP is imported in the
+python file and added as a column per country to the existing dataframes for the electric car and truck sales. Using the same style for bar graphs, using sliders to go through the years, the car and truck sales,
+their percentage graphs and the sum graphs are plotted.
+
+* Gross domestic product: an economy’s all. (2019, June 15). IMF. https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/gross-domestic-product-GDP
+
+[tekst voor boven standaard genormaliseerde grafiekjes]
+Normalised graph per inhabitant for cars and trucks:
+In the first graph, the electric car and truck sales are shown per GDP for each country. For the year 2022 Iceland again is the top country for electric car sales, followed by China and Norway. For the electric
+truck sales, China is the top country. It is interesting to see the differences and similarities between this graph, the absolute graph given in sub question 2 and the normalised graph for inhabitants in sub
+question 3, as it shows the differences between the absolute sales of a country and the country's characteristic factors. This will further be elaborated on in the Conclusion.
+
+[tekst voor boven % grafiekjes]
+To show the share of each country in the electric car and truck sales per GDP, the percentage graphs are also provided for this normalisation. For the electric truck sales, it shows that China had a great share
+in the overall sales between 2015 and 2018, and from 2018 on the share of other countries per GDP started to increase as well. Whereas there are great differences between the years for the electric truck sales,
+the differences of shares of countries for the electric car sales or much lower.
+
+[tekst voor boven sum grafiekjes]
+The differences between countries for the electric car sales are not that great for the sum of the electric car sales per GDP. Iceland and Norway are the top two countries. For the trucks, there is a bigger
+difference between countries which could be expected, as China had a great percentage of shares for a couple of years compared to the other countries. China is the country at the top of the electric truck sales
+relative to the country's GDP.
+
+[answering the sub question]
+To answer the sub question *Which four counties are leading in electric car and truck sales relative to GDP?*, we look at the graph for the sum of the electric car and truck sales per GDP.
+Electric car sales / GDP:
+1. Iceland
+2. Norway
+3. Germany
+4. Sweden
+
+Electric truck sales / GDP:
+1. China
+2. Norway
+3. Germany
+4. Sweden
