@@ -1,45 +1,33 @@
 SQ3: Which four countries are leading in electric car and truck sales per inhabitant, and how have these sales developed? (normalized to demographics)
 Q3.A: Which four counties are leading in electric car and truck sales per inhabitant?
-DEMOGRAPIC
+
+DEMOGRAPHIC
 Algemeen:
-In the previous questions, the countries that are leading in fully electric sales and plug-in hybrid sales of electric cars and electric trucks are given. In subquestion 4 we explore this development of
-sales per country and per inhabitant. This data will then show not only the growht per country in absolute sales, but also the development of these sales per inhabitant. In these graphs, the electric 
-vehicle sales per inhabitant are given for each country. To obtain this data, a new dataframe that contains the value of the amount of inhabitants per country is added to the pyhton file. Using this new 
-dataframe, a new column is created in the original dataframe that calculates the value of the sales, divided by the value for the inhabitants for each year per country. This new value is then plotted
-in a bar graph, using a slider that shows the data per year. This way, the development of the electric vehicle sales per inhabitant is shown through the years. The bar plot is, just like in the questions 
-above, shown in descending order. The country that has the highest electric car or truck sales is shown on the top and the corresponding value is given as well. The value that is shown is small, as this 
-is the value of the car or truck sales per inhabitant.
+In the previous questions, the countries that are leading in fully electric sales and plug-in hybrid sales of electric cars and electric trucks are given. In subquestion 3 we explore this development of
+sales per country based on a demographic factor: inhabitants. The data in this sub question will not only show the growth per country in absolute sales, but also the development of these sales per inhabitant.
+In these graphs, the electric vehicle sales per inhabitant are given for each country. To obtain this data, a new dataframe that contains the value of the amount of inhabitants per country is added to the
+python file. Using this new dataframe, a new column is created in the original dataframe that calculates the value of the sales, divided by the value for the inhabitants for each year per country. This new
+value is then plotted in a bar graph, using a slider that shows the data per year. This way, the development of the electric vehicle sales per inhabitant is shown through the years. The bar plot is, just like
+in the questions above, shown in descending order. The country that has the highest electric car or truck sales is shown on the top and the corresponding value is given as well. The value that is shown is
+small, as this is the value of the car or truck sales per inhabitant.
 
-For both the electric cars and the electric trucks two other graphs are also shown, as in subquestion 2.
+[tekst voor boven standaard genormaliseerde grafiekjes]
+Normalised graph per inhabitant for cars and trucks:
+In the first graph, the electric car and truck sales are shown per inhabitant for each country. For example for the year 2022 in the electric car sales graph, Iceland scores as the top country for electric car sales,
+whereas in the absolute sales Iceland is in the bottom half. Iceland has a relative small population of only 387,559 inhabitants, so compared to a country like China it is obvious they do not have the same absolute
+electric vehicle car sales. This graph shows the sales as a value per inhabitant and therefore it is a more accurate representation of the development of electric car sales for the size of the country.
 
-Car graph:
-In this first graph, the electric car sales are shown per inhabitant for each country. For example for the year 2023, Iceland scores as the top country for electric car sales, whereas in the absolute sales
-Iceland is in the bottom half. Iceland has a relative small population of only 387,559 inhabitants, so compared to a country like China it is obvious they do not have the same absolute electric vehicle car 
-sales. This graph shows the sales as a value per inhabitant and therefore it is a more accurate representation of the development of electric car sales for the size of the country.
-
-Car % graph:
-The bar graph below shows the percentage of car sales per inhabitant per country, which is done in the same way as in subquestion 2. It gives a more clear overview of the share of each country in the electric
-car sales, but this time it gives the share according to the inhabitants.
-
-Car sum graph:
-This final car graph shows the sum of the electric car sales per inhabitant for each country, summing up the value of sold electric cars per inhabitant from 2010 to 2023. Here we can see that the top country
-is not Iceland, but Norway. This shows that in total Norway has sold more cars per inhabitant than Iceland.
-
-Truck graph:
 The same valuations are done for the sales of electric trucks. In this first graph, the electric truck sales per inhabitant are shown in a bar plot for each country, using a slider for each year. In this case
-for 2023 Norway is the top country per inhabitant, in comparison to China, which was the top country for absolute truck sales. The values shown for the trucks are very small. The value for the top country Norway
-in 2023 is only 130μ; this shows the number of sold electric trucks is very small compared to the size of the countries.
+for 2022, Norway is the top country per inhabitant, in comparison to China, which was the top country for absolute truck sales. The values shown for the trucks are very small. The value for the top country Norway
+in 2022 is only 97μ; this shows the number of sold electric trucks is very small compared to the size of the countries.
 
-Truck % graph:
-In the graph below the percentage of electric truck sales per inhabitant per country are given. Just as with the electric car sales, this graph shows each country's share in the sales of electric trucks per
-inhabitant.
+[tekst voor boven % grafiekjes]
+The bar graphs below show the percentagse of car and truck sales per inhabitant per country, which are done in the same way as in subquestion 2. They give a more clear overview of the share of each country in the
+electric car and truck sales according to their demographic size (inhabitants).
 
-Truck sum graph:
-The last graph shows the sum of the electric truck sales per inhabitant per country, summing from 2010 to 2023. In this graph, Norway has the highest total sum of sold electric trucks in 2023. This shows that 
+[tekst voor boven sum grafiekjes]
+This final car and truck graph show the sum of the electric car and truck sales per inhabitant for each country, summing up the value of sold electric cars per inhabitant from 2010 to 2022. Here we can see that the
+top country for the electric car sales is not Iceland, but Norway. In total Norway has sold more cars per inhabitant than Iceland.
+
+The electric truck graph shows the sum of the electric truck sales per inhabitant per country, summing from 2010 to 2022. In this graph, Norway has the highest total sum of sold electric trucks in 2022. This shows that 
 they are the leading country in overall electric truck sales.
-
-
-- data van inwoners per land vinden
-- specifiek jaar (of 2 jaren) kiezen voor de inwoners per land
-- originele data aanpassen door alles te delen door het aantal inwoners per land
-- verder precies hetzelfde als vraag 1
