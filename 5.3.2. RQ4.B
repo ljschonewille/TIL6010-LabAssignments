@@ -10,8 +10,8 @@ Cars:
 When looking at the sales of electric cars in the top 4 countries, it can be said that these countries have seen an increase in sales since the data has been recorded.
 Notably, Norway stands out with an initial large increase in sales per GDP, but this will decrease later.
 The sale of EV cars in Iceland has risen sharply since 2019, and by 2022, this country is by far selling the most cars on a yearly basis, compared to the other four countries when normalized to GDP.
-China has an interesting graph, because of the normalization to GDP, the sales in the first few years are not impressively high. But China has developed a lot in the past years, which can also be found in the car sales.
-It can be said that in recent years there has been an increase in the purchase of electric cars in all four countries: Iceland, Norway, Sweden, and China.
+China has an interesting graph, because of the normalization to GDP, the sales in the first few years are not impressively high. But China has developed a lot in the past years, which can also be seen in this development curve.
+It can be said that in recent years there has been an increase in the purchase of electric cars in all four countries: Iceland, Norway, Sweden, and China. All countries have their own car sales curve when normalized to GDP.
 
 Trucks:
 China is the earliest to begin and shows a massive spike already in 2017.
