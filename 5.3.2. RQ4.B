@@ -1,10 +1,16 @@
 SQ4: Which four countries are leading in electric car and truck sales per Gross Domestic Product (GDP), and how have these sales developed? (normalized to economics)
 Q4.B: How have these sales developed (for those 4 top leading countries)
 ECONOMIC
+
+[general]
+Knowing the top 4 countries that are leading in electric car and truck sales per GDP, it can be interesting to see how the sales of these countries have developed between 2010 and 2022.
+Therefore, the following graphs represent the development of sales per GDP.
+
 Cars:
 When looking at the sales of electric cars in the top 4 countries, it can be said that these countries have seen an increase in sales since the data has been recorded.
-Notably, Norway stands out with an initial large increase, but this later decreases.
-The sale of EV cars in Iceland has risen sharply since 2019, and by 2022, this country is by far selling the most cars compared to the other four countries when normalized to GDP.
+Notably, Norway stands out with an initial large increase in sales per GDP, but this will decrease later.
+The sale of EV cars in Iceland has risen sharply since 2019, and by 2022, this country is by far selling the most cars on a yearly basis, compared to the other four countries when normalized to GDP.
+China has an interesting graph, because of the normalization to GDP, the sales in the first few years are not impressively high. But China has developed a lot in the past years, which can also be found in the car sales.
 It can be said that in recent years there has been an increase in the purchase of electric cars in all four countries: Iceland, Norway, Sweden, and China.
 
 Trucks:
