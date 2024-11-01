@@ -13,8 +13,9 @@ A similar bar graph was prepared for electric truck sales. Significantly less da
 
 For the second graph, the dataset was expanded to include a column that calculates each country's share of annual sales. This takes the total sales per year as 100%. Then the number of cars sold per country is divided by total sales for that year and multiplied by 100 to calculate the percentage. The graph, similar to the first graph, is a bar graph with a slider, but now shows the sales percentages by country. 
 
-The final graph shows the cumulative sales of electric cars by country through 2022. Whereas the earlier graphs provided insight into annual sales, this graph provides an overview of total sales by country over the period 2010-2022. To calculate this cumulative data, an additional column has been added to the dataset in which yearly sales are added to previous years' sales.
+The final graph shows the cumulative sales of electric cars by country through 2022. Whereas the earlier graphs provided insight into annual sales, this graph provides an overview of total sales by country over the period 2010-2022. Countries that started EV adoption relatively early and continue to invest in it consistently will show higher cumulative values. It provides insight into which countries are continuously investing in electric vehicles and how much that commitment will pay off in the long run. To calculate this cumulative data, an additional column has been added to the dataset in which yearly sales are added to previous years' sales.
 
 The graph is again a bar graph with a slider. Based on this final graph, it can be concluded that the top four countries with the most electric cars sold between 2010 and 2022 are: China (14,000,000 sales), the United States (3,400,000 sales), Germany (2,200,000 sales) and the United Kingdom (1,100,000 sales). 
+
 A similar graph was made for electric trucks. Based on this final graph, it can be concluded that the top four countries with the most electric trucks sold between 2010 and 2022 are:  China (260,000 sales), Germany (3,900 sales), Brasil (1,100 sales) and Canada (890 sales).
 
