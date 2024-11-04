@@ -7,12 +7,13 @@ With the knowledge of the top 4 leading countries in electric car and truck sale
 The following graphs show the development in sales from 2010 untill 2022.
 
 Cars:
-Looking at the development of yearly electric car sales of the top 4 countries when generalizing to HDI, China stands out with the largest increase.
-The developmet of car sales in the USA has a slight increase in 2018 and decreases the two following years.
-For the top 4 countries it can be seen that the yearly car sales have increase since 2020 for each country. 
-The developmemt of car sales for Germany and United Kingdom seems to slow down in 2022 in comparison to the previous years. 
+Looking at the development of yearly electric car sales of the top 4 countries when generalizing to HDI (China, USA, Germany, United Kingdom), China stands out with the largest increase.
+The development of car sales in the USA has a slight increase until 2018 and decreases the two following years.
+For the top 4 countries it can be seen that the yearly car sales per HDI have increased since 2020 for each country. 
+The developmemt of car sales per HDI for Germany and United Kingdom seems to flatter in 2022 in comparison to previous years. 
 
 Trucks:
-What immidiately stands out when looking at the trucks graph, is that China has an enormous peak in 2017 and decreases again afterwards.
-By normalizing the sales per Humand Development Index, the development of the truck sales per year of Germany, Brazil and Canada is very flat in comparison to China.
-Between 2021 and 2022, these is an increase in truck sales for all the coutries.
+What immidiately stands out when looking at the trucks sales per HDI graph, is that China has an enormous peak in 2017 and decreases again afterwards.
+By normalizing the sales per HDI, the development of the electric truck sales per year of Germany, Brazil and Canada is very flat in comparison to China. 
+The data collection of Germanu and Brazil starts in 2018. The sales of elctric truck in Canada normalised for HDI is until 2022 almost equal to zero. 
+
