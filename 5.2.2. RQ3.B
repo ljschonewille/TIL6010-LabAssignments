@@ -1,8 +1,10 @@
 SQ3: Which four countries are leading in electric car and truck sales per inhabitant, and how have these sales developed? (normalized to demographics)
 Q3.B: How have these sales developed (for those 4 top leading countries)
 DEMOGRAPIC
-Knowing the top 4 countries that are leading in electric car and truck sales per GDP, it can be interesting to see how the sales of these countries have developed between 2010 and 2022.
-Therefore, the following graphs represent the development of sales per GDP.
+
+[general]
+Knowing the top 4 countries that are leading in electric car and truck sales per inhabitant, it can be interesting to see how the sales of these countries have developed between 2010 and 2022.
+Therefore, the following graphs represent the development of sales per inhabitant.
 
 Cars:
 When looking solely at the values for car sales for three out of the top four leading countries in 2022 (Norway, Iceland and Sweden), it can be concluded that since 2010, the sale of electric cars per inhabitant has increased for thee countries in the top four from 2022.
